@@ -1,0 +1,3 @@
+[submodule "AbraCryptabra/crypto-attacks"]
+	path = AbraCryptabra/crypto-attacks
+	url = https://github.com/jvdsn/crypto-attacks.git
